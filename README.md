@@ -21,7 +21,7 @@ With a clean and modern UI, **fast download speeds**, and **zero ads**, we aim t
 - 🖥 **Minimalistic & Responsive UI** – Enjoy a smooth experience across devices.  
 - 🚀 **Fast & Secure** – Quick downloads without unnecessary pop-ups or ads.  
 
-Whether you’re a Garba enthusiast, a performer, or a first-time dancer, **Zeel Na Garba** is your go-to source for an uninterrupted Garba experience!
+
 
 ## 🚀 Features  
 - ✅ **All-in-One File**: One consolidated Garba song file for hassle-free access.  
