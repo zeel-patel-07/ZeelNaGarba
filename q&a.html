@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - How to Download & Extract Garba File</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'blue-gradient-start': '#001f3f',
+                        'blue-gradient-end': '#002855',
+                    },
+                },
+            },
+        }
+    </script>
+</head>
+<body class="bg-gradient-to-b from-blue-gradient-start to-blue-gradient-end min-h-screen text-white py-12 px-4">
+    <div class="max-w-2xl mx-auto">
+        <h1 class="text-3xl font-bold text-center mb-8">FAQ - How to Download & Extract Garba File</h1>
+        
+        <div class="space-y-4">
+            <!-- Question 1: How to Download -->
+            <div class="bg-white bg-opacity-10 rounded-lg overflow-hidden">
+                <button class="w-full text-left p-4 focus:outline-none" onclick="toggleAnswer(this)">
+                    <div class="flex justify-between items-center">
+                        <span class="text-xl font-semibold">How to Download My Garba File?</span>
+                        <svg class="w-6 h-6 transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                </button>
+                <div class="answer hidden p-4 bg-white bg-opacity-5">
+                    <p class="mb-2">Follow these steps to download the Garba file:</p>
+                    <ol class="list-decimal list-inside space-y-2">
+                        <li>Click the <b>Download File</b> button on my website.</li>
+                        <li>You will be redirected to <b>Google Drive</b>.</li>
+                        <li>Click the <b>Download</b> icon in the top right.</li>
+                        <li>Wait for the file to finish downloading.</li>
+                    </ol>
+                </div>
+            </div>
+
+            <!-- Question 2: How to Extract the File -->
+            <div class="bg-white bg-opacity-10 rounded-lg overflow-hidden">
+                <button class="w-full text-left p-4 focus:outline-none" onclick="toggleAnswer(this)">
+                    <div class="flex justify-between items-center">
+                        <span class="text-xl font-semibold">How to Extract My File in ZArchiver?</span>
+                        <svg class="w-6 h-6 transform transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </div>
+                </button>
+                <div class="answer hidden p-4 bg-white bg-opacity-5">
+                    <p class="mb-2">To extract the downloaded file, follow these steps:</p>
+                    <ol class="list-decimal list-inside space-y-2">
+                        <li>Download on Play Store & Install <b>ZArchiver</b>.</li>
+                        <li>Open <b>ZArchiver</b> and go to your <b>Downloads</b> folder.</li>
+                        <li>Find the Garba file and <b>tap on it</b>.</li>
+                        <li>Select <b>Extract Here</b> and wait for the extraction.</li>
+                        <li>Once done, your Garba files will be ready to use!</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-8">
+        <a href="index.html" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded inline-block transition duration-300">Back to Home</a>
+    </div>
+    
+    
+    
+
+    <script>
+        function toggleAnswer(button) {
+            const answer = button.nextElementSibling;
+            const icon = button.querySelector('svg');
+            answer.classList.toggle('hidden');
+            icon.classList.toggle('rotate-180');
+        }
+        
+        
+        
+    </script>
+</body>
+</html>
+
+
+
