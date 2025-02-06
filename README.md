@@ -62,6 +62,8 @@ Reach out via **[Contact Us](mailto:zeel2digital@gmail.com?)**.
 Stay connected for updates and new features:  
 - 📷 **Instagram**: [@zeelpatel_3807](https://www.instagram.com/zeelpatel_3807?igsh=MzdsdnFzbWRmaDg4)
 - 📢 **Telegram**: [@zilyhelpbot](https://t.me/zilyhelpbot)  
+- 🐈 **GitHub**: 
+[zeel-patel-07] (https://github.com/zeel-patel-07/zeel-patel-07)
 - 🌎 **Website**: [@zilyhelpbot](https://73.nu/zeelnagarba)  
 
 
