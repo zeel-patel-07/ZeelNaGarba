@@ -5,7 +5,7 @@
 A free-to-access platform providing an **All-in-One Garba Song File** for Garba enthusiasts.  
 
 ## 🌐 Website Link  
-[Zeel Na Garba](https://73.nu/zeelnagarba)  
+[Zeel Na Garba](https://zeelnagarba.netlify.app/)  
 
 ## 📜 Description  
 **Zeel Na Garba** is a dedicated platform for all Garba lovers, providing a **free, high-quality, all-in-one Garba song file** in one place. Whether you're organizing a grand Navratri event, enjoying Garba with friends, or simply vibing to the beats, this website makes it effortless to access and download your favorite Garba songs.  
@@ -65,7 +65,7 @@ Stay connected for updates and new features:
 - 🐈 **Github**: [@zeel-patel-07](https://github.com/zeel-patel-07/zeel-patel-07)  
 
 
-- 🌎 **Website**: [Zeel Na Garba](https://73.nu/zeelnagarba)  
+- 🌎 **Website**: [Zeel Na Garba](https://zeelnagarba.netlify.app/)  
 
 
 ## 💙 Support  
